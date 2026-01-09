@@ -105,7 +105,7 @@ Settings are stored using `chrome.storage.local` with the structure:
 }
 ```
 
-## Building for Production
+## Building
 
 ```bash
 # Build for Chrome
@@ -120,8 +120,11 @@ pnpm zip
 
 The built extension will be in the `output/` directory.
 
+## Installation
+
+Enable developer mode in your browser and select the relevant build from the `output/` directory for your browser type.
+
 ## Credits
 
-- Original extension concept: V7 Gmail Zoom
 - Rebuilt with WXT framework for better maintainability and modern standards
 - UI built with React and Tailwind CSS
