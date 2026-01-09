@@ -10,7 +10,7 @@ More features will be added in the future.
 
 I use large high resolution displays and have a hard time reading the small text in Gmail.
 
-There are various solutions available to fix this, but allowing a third party browser extension to read and modify your Gmail is extremely risky. There have been numerous cases of previously trustworthy extensions being used to steal data. Once you provide those permissions, you don't know what they are doing with your data. I built this extension to customize my Gmail UI without safely running the extension locally.
+There are various solutions available to fix this, but allowing a third party browser extension to read and modify your Gmail is extremely risky. Once you provide those permissions you are granting a third party access to some of your most sensitive personal information. The risk is simply not worth the reward. I built this extension to customize my Gmail UI in a safe and secure way.
 
 You can audit the code, download it, and run it locally yourself, safe in the knowledge that your data is not being compromised for the sake of a few UI tweaks.
 
